@@ -1,4 +1,4 @@
-/*## Attribution
+/*# Attribution
 This project's port scanning functionality is inspired by or based upon the "Rust Fast Port Scanner" example by Sylvain Kerkour. You can find the original source code and related article at [Sylvain Kerkour's Blog](https://github.com/skerkour/kerkour.com/blob/main/blog/2021/rust_fast_port_scanner/src/main.rs).
 */
 pub const MOST_COMMON_PORTS_1002: &[u16] = &[
